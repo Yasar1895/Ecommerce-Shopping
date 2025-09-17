@@ -4,7 +4,31 @@ const products = [
   {id:3,name:"Smart Watch",price:4999,category:"Electronics",image:"https://i.ibb.co/WKkFZbH/product3.jpg",description:"Track your fitness and notifications.",badge:"OFFER"},
   {id:4,name:"Leather Bag",price:3999,category:"Accessories",image:"https://i.ibb.co/4ZJpYwZ/product4.jpg",description:"Stylish and durable leather bag.",badge:"NEW"},
   {id:5,name:"Yellow Sneakers",price:3199,category:"Shoes",image:"https://i.ibb.co/6XfRtYH/product5.jpg",description:"Bright yellow sneakers for running.",badge:"HOT"},
-  {id:6,name:"Green T-shirt",price:1299,category:"Clothing",image:"https://i.ibb.co/JFQmM7G/product6.jpg",description:"Breathable green t-shirt for sports.",badge:"OFFER"}
+  {id:6,name:"Green T-shirt",price:1299,category:"Clothing",image:"https://i.ibb.co/JFQmM7G/product6.jpg",description:"Breathable green t-shirt for sports.",badge:"OFFER"},
+  {id:7,name:"Pink Handbag",price:3599,category:"Accessories",image:"https://i.ibb.co/4pDNDqf/product7.jpg",description:"Trendy pink handbag for casual and office use.",badge:"NEW"},
+  {id:8,name:"Black Boots",price:4599,category:"Shoes",image:"https://i.ibb.co/4W2DGKm/product8.jpg",description:"Elegant black leather boots for formal wear.",badge:"HOT"},
+  {id:9,name:"White T-shirt",price:999,category:"Clothing",image:"https://i.ibb.co/vv0Tz6C/product9.jpg",description:"Classic white t-shirt for everyday wear.",badge:"OFFER"},
+  {id:10,name:"Bluetooth Headphones",price:2499,category:"Electronics",image:"https://i.ibb.co/dDPb7vM/product10.jpg",description:"Wireless Bluetooth headphones with high-quality sound.",badge:"NEW"},
+  {id:11,name:"Orange Sneakers",price:3299,category:"Shoes",image:"https://i.ibb.co/y4rR19b/product11.jpg",description:"Vibrant orange sneakers for casual wear.",badge:"HOT"},
+  {id:12,name:"Purple Hoodie",price:2199,category:"Clothing",image:"https://i.ibb.co/2qXwRj7/product12.jpg",description:"Comfortable hoodie in purple color.",badge:"NEW"},
+  {id:13,name:"Laptop Bag",price:3899,category:"Accessories",image:"https://i.ibb.co/7Yh0rF1/product13.jpg",description:"Durable laptop bag for daily use.",badge:"OFFER"},
+  {id:14,name:"Silver Watch",price:5999,category:"Electronics",image:"https://i.ibb.co/5R8b1qk/product14.jpg",description:"Elegant silver watch with leather strap.",badge:"HOT"},
+  {id:15,name:"Brown Boots",price:4799,category:"Shoes",image:"https://i.ibb.co/5vPXYv3/product15.jpg",description:"Stylish brown boots for formal and casual wear.",badge:"NEW"},
+  {id:16,name:"Red Dress",price:2899,category:"Clothing",image:"https://i.ibb.co/9y0d5L1/product16.jpg",description:"Elegant red dress for special occasions.",badge:"HOT"},
+  {id:17,name:"Gold Necklace",price:3999,category:"Accessories",image:"https://i.ibb.co/s6YNB4x/product17.jpg",description:"Shiny gold necklace with intricate design.",badge:"OFFER"},
+  {id:18,name:"Green Sneakers",price:3399,category:"Shoes",image:"https://i.ibb.co/b2NfQkZ/product18.jpg",description:"Bright green sneakers for sports and casual wear.",badge:"NEW"},
+  {id:19,name:"Black Hoodie",price:1999,category:"Clothing",image:"https://i.ibb.co/4tC1QvZ/product19.jpg",description:"Comfortable black hoodie for daily wear.",badge:"HOT"},
+  {id:20,name:"Smartphone",price:14999,category:"Electronics",image:"https://i.ibb.co/3fH0rL9/product20.jpg",description:"Latest smartphone with high-end features.",badge:"NEW"},
+  {id:21,name:"Blue Jeans",price:1799,category:"Clothing",image:"https://i.ibb.co/7N2kJ4G/product21.jpg",description:"Classic blue denim jeans.",badge:"OFFER"},
+  {id:22,name:"Red Backpack",price:2599,category:"Accessories",image:"https://i.ibb.co/5r8R8Z3/product22.jpg",description:"Stylish red backpack for school or travel.",badge:"HOT"},
+  {id:23,name:"White Sneakers",price:2999,category:"Shoes",image:"https://i.ibb.co/xM3zP0y/product23.jpg",description:"Clean white sneakers for casual wear.",badge:"NEW"},
+  {id:24,name:"Bluetooth Speaker",price:2199,category:"Electronics",image:"https://i.ibb.co/8M2v9dH/product24.jpg",description:"Portable Bluetooth speaker with high-quality sound.",badge:"HOT"},
+  {id:25,name:"Yellow Hoodie",price:2099,category:"Clothing",image:"https://i.ibb.co/7Y8sQ2x/product25.jpg",description:"Bright yellow hoodie for casual style.",badge:"NEW"},
+  {id:26,name:"Black Wallet",price:1499,category:"Accessories",image:"https://i.ibb.co/6PGQb5f/product26.jpg",description:"Classic black leather wallet.",badge:"OFFER"},
+  {id:27,name:"Pink Sneakers",price:3199,category:"Shoes",image:"https://i.ibb.co/xsY2RZx/product27.jpg",description:"Fashionable pink sneakers for women.",badge:"HOT"},
+  {id:28,name:"Silver Earrings",price:1899,category:"Accessories",image:"https://i.ibb.co/b1QnXcH/product28.jpg",description:"Shiny silver earrings for daily wear.",badge:"NEW"},
+  {id:29,name:"Gaming Mouse",price:2499,category:"Electronics",image:"https://i.ibb.co/yS0R5Yv/product29.jpg",description:"High-performance gaming mouse.",badge:"HOT"},
+  {id:30,name:"Orange T-shirt",price:1299,category:"Clothing",image:"https://i.ibb.co/qy8ZgR1/product30.jpg",description:"Bright orange t-shirt for summer wear.",badge:"OFFER"}
 ];
 
 export default products;
